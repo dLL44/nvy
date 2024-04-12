@@ -1,0 +1,11 @@
+-=-=-=-=-=-=-=-=-=-=-=-=
+  Just a quick note.
+-=-=-=-=-=-=-=-=-=-=-=-=
+You ran the -t (temporary) flag. This container is temporary, therefore upon exit, 
+all data in this container will be deleted forever.
+
+To save a file, run the following command in a command prompt outside the docker container:
+
+docker cp <container_name>:/path/to/destination <file_path_on_host>
+
+-=-=-=-=-=-=-=-=-=-=-=-=

@@ -1,0 +1,74 @@
+ ███▄    █ ██▒   █▓▓██   ██▓
+ ██ ▀█   █▓██░   █▒ ▒██  ██▒
+▓██  ▀█ ██▒▓██  █▒░  ▒██ ██░
+▓██▒  ▐▌██▒ ▒██ █░░  ░ ▐██▓░
+▒██░   ▓██░  ▒▀█░    ░ ██▒▓░
+░ ▒░   ▒ ▒   ░ ▐░     ██▒▒▒ 
+░ ░░   ░ ▒░  ░ ░░   ▓██ ░▒░ 
+   ░   ░ ░     ░░   ▒ ▒ ░░  
+         ░      ░   ░ ░     
+               ░    ░ ░     
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐
+▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐  ▐▐
+▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐  ▐▐
+▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐  ▐▐
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐
+▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐  ▐▐
+▐▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐ ▐▐
+▐▐▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐  ▐▐
+▐▐▐▐▐  ▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐   ▐▐
+▐▐▐▐▐▐                 ▐▐▐▐▐
+▐▐▐▐▐▐▐▐▐▐▐▐    ▐▐▐▐▐▐▐▐▐▐▐▐
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ███▄    █ ██▒   █▓▓██   ██▓
+ ██ ▀█   █▓██░   █▒ ▒██  ██▒
+▓██  ▀█ ██▒▓██  █▒░  ▒██ ██░
+▓██▒  ▐▌██▒ ▒██ █░░  ░ ▐██▓░
+▒██░   ▓██░  ▒▀█░    ░ ██▒▓░
+░ ▒░   ▒ ▒   ░ ▐░     ██▒▒▒ 
+░ ░░   ░ ▒░  ░ ░░   ▓██ ░▒░ 
+   ░   ░ ░     ░░   ▒ ▒ ░░  
+         ░      ░   ░ ░     
+               ░    ░ ░ 
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+  disposable VMs reimagined
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+created by @dLL44 on tha github ya herd?
+
+    -p, --privileged 
+        Runs the container on a higher status
+    -t, --temporary
+        Runs a temporary (disposable) container
+    -h, --help
+        This page
+
+----------------------------
+
+Issue? Let me know. 
+ukw2fm
+
+----------------------------
+ 
+
+
+\n     ***** *     **                       ***** *    **   \n  ******  **    **** *                 ******  *  *****   \n **   *  * **    ****  **             **   *  *     ***** \n*    *  *  **    * *   **            *    *  **     * **  \n    *  *    **   *      **    ***        *  ***     *     \n   ** **    **   *       **    ***      **   **     *     \n   ** **     **  *       **     ***     **   **     *     \n   ** **     **  *       **      **     **   **     *     \n   ** **      ** *       **      **     **   **     *     \n   ** **      ** *       **      **     **   **     *     \n   *  **       ***       **      **      **  **     *     \n      *        ***       **      *        ** *      *     \n  ****          **        *******          ***      *     \n *  *****                  *****            *********     \n*     **                                      **** ***    \n*                                                   ***   \n **                                     ********     ***  \n                                      *************  **   \n                                     *           ****     \n\n~-~-~-~-~-~-~-~-~-~-~-~-~-~-~\n  disposable VMs reimagined\n\n~-~-~-~-~-~-~-~-~-~-~-~-~-~-~\ncreated by @dLL44 on tha github ya herd?\nUsage: nvy <option> <container> <optional flags>\n\n    -p, --privileged \n        Runs the container on a higher status\n    -t, --temporary\n        Runs a temporary (disposable) container\n    help\n        This page\n    create\n        create a docker container ( paired with both -t and -p flags )\n    del\n        delete an existing container by id\n----------------------------\n\nIssue? Let me know. \nukw2fm\n\n----------------------------
+
+\n███▄▄▄▄    ▄█    █▄  ▄██   ▄   \n███▀▀▀██▄ ███    ███ ███   ██▄ \n███   ███ ███    ███ ███▄▄▄███ \n███   ███ ███    ███ ▀▀▀▀▀▀███ \n███   ███ ███    ███ ▄██   ███ \n███   ███ ███    ███ ███   ███ \n███   ███ ███    ███ ███   ███ \n ▀█   █▀   ▀██████▀   ▀█████▀  \n\n~-~-~-~-~-~-~-~-~-~-~-~-~-~-~\n  disposable VMs reimagined\n\n~-~-~-~-~-~-~-~-~-~-~-~-~-~-~\ncreated by @dLL44 on tha github ya herd?\nUsage: nvy <option> <container> <optional flags>\n\n    -p, --privileged \n        Runs the container on a higher status\n    -t, --temporary\n        Runs a temporary (disposable) container\n    help\n        This page\n    create\n        create a docker container ( paired with both -t and -p flags )\n    del\n        delete an existing container by id\n----------------------------\n\nIssue? Let me know. \nukw2fm\n\n----------------------------
