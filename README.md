@@ -8,4 +8,5 @@ nvy is in beta right now, and im working on it trust me. to run help:
  $ nvy help .
 ```
 # Disclaimer 
-i made nvy on Windows 11, so i have no idea if this will work on linux or mac
+i made nvy on Windows 11, so i have no idea if this will work on linux or mac <br>
+*it dont*
